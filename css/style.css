@@ -1,0 +1,20 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color:grey;
+}
+.pink {
+    background-color: palevioletred;
+}
+.blue {
+    background-color: cornflowerblue;
+}
+.orange {
+    background-color: coral;
+}
+.lighter {
+    opacity: 0.8;
+}
+.very-light {
+    opacity: 0.5;
+}
